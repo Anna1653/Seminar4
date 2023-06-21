@@ -1,0 +1,15 @@
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\Zadacha27.csproj.AssemblyReference.cache
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\Zadacha27.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\Zadacha27.AssemblyInfoInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\Zadacha27.AssemblyInfo.cs
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\Zadacha27.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\bin\Debug\net6.0\Zadacha27.exe
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\bin\Debug\net6.0\Zadacha27.deps.json
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\bin\Debug\net6.0\Zadacha27.runtimeconfig.json
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\bin\Debug\net6.0\Zadacha27.dll
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\bin\Debug\net6.0\Zadacha27.pdb
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\Zadacha27.dll
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\refint\Zadacha27.dll
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\Zadacha27.pdb
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\Zadacha27.genruntimeconfig.cache
+D:\УЧЕБА\Языки программирования\Seminar4\Zadacha27\obj\Debug\net6.0\ref\Zadacha27.dll
